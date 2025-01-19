@@ -1,2 +1,9 @@
 # Decision-Support-System
-An excel application that provides users with tailored scheduling recommendations! The project was done in collaboration with other Management Engineers at the University of Waterloo.   
+The Decision Support System is an Excel-based application that provides students with scheduling recommendations based on their priorities, academic commitments, and extracurricular activities. It was designed to help students alleviate stress and become more organized. The Welcome Page was designed using the Canva application. 
+
+
+
+
+
+
+
